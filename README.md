@@ -32,6 +32,14 @@ I am also a member of my college **App Team** and worked as an **Organizer for H
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetan208)
+## 🚀 Projects
 
+### Blogit
+- Full-stack blogging application  
+- Built with **React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB**  
+- Features: Authentication, REST APIs, Responsive UI  
+- [GitHub Repo](https://github.com/chetn208/blogit) | [Live Demo](https://blogit-nith.vercel.app)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=chetn208&icon=0&color=0)](https://visitcount.itsvg.in)
