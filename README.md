@@ -33,5 +33,5 @@ I am also a member of my college **App Team** and worked as an **Organizer for H
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetn208)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetan208)
 
