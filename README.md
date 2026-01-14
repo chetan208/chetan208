@@ -33,15 +33,5 @@ I am also a member of my college **App Team** and worked as an **Organizer for H
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetn208)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetn208&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetn208&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetn208&layout=compact&theme=dark" />
-</p>
